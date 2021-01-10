@@ -1,0 +1,22 @@
+<mxfile host="65bd71144e" modified="2021-01-10T12:20:09.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.52.1 Chrome/83.0.4103.122 Electron/9.3.5 Safari/537.36" etag="zuBzQpZYjkbta6T1ZLHp" version="13.10.0" type="embed">
+    <diagram id="7aDEmlV0kH1u50cNkG-_" name="第 1 页">
+        <mxGraphModel dx="998" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="122" value="" style="pointerEvents=1;fillColor=strokeColor;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.diodes.diode;rotation=90;" parent="1" vertex="1">
+                    <mxGeometry x="41" y="210" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="123" value="" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor;rotation=-90;" parent="1" vertex="1">
+                    <mxGeometry x="141" y="138" width="94" height="32" as="geometry"/>
+                </mxCell>
+                <mxCell id="125" value="+24DC" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="163" y="70" width="50" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="126" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.transistors.npn_transistor_1;" parent="1" vertex="1">
+                    <mxGeometry x="140" y="200" width="95" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
